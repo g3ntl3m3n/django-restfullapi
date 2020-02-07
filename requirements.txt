@@ -17,7 +17,7 @@ Django==3.0.2
 djangorestframework==3.11.0
 entrypoints==0.3
 Guake==3.6.3
-httpie==0.9.8
+httpie==1.0.3
 httplib2==0.11.3
 idna==2.6
 ipython==7.12.0
